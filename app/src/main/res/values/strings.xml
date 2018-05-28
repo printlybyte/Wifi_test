@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Wifi_test</string>
+    <string name="wifi_connected">已连接</string>
+    <string name="wifi_ununited">未连接</string>
+    <string name="main_edit_ssid">请输入你的wifi名称</string>
+    <string name="main_edit_password">请输入你的wifi密码</string>
+    <string name="main_toast_ssidorpassword">请输入正确的ssid或者password</string>
+    <string name="main_toast_password_length">密码长度不足8位</string>
+    <string name="main_toast_wifi_connected">当前wifi已连接</string>
+</resources>
